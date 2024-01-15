@@ -1,0 +1,18 @@
+                                   Resturant Listing Backend
+                                --------------------------------
+
+            1.Create a new folder for backend - resturant-server
+            2.Create a package.json file - npm init -y
+            3.Install json server - npm i json-server    
+            4.Create .gitignore file - node_modules        
+            5.Create a db.json file (for storing data)         
+            6.Create index.js file
+                 Inside It
+                  ->1. import json-server
+                  ->2. Create a server
+                  ->3. setup path for db.json file
+                  ->4. Return Middleware used by json server  
+                  ->5. setup port for server
+                  ->6. use Middleware and router
+                  ->7. To run the server
+            7.Change in package.json file
